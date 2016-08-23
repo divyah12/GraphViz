@@ -1,0 +1,20 @@
+//Divyashree Hanaganahalli Boregowda
+//Roster No. #5
+//CMPS 5443
+//The adjacency Matrix is as below
+//0 2 2 1 
+//1 0 2 1 
+//0 0 0 1 
+//2 2 2 0 
+digraph g {
+0 -> 1 [label = 2] 
+0 -> 2 [label = 2] 
+0 -> 3 [label = 1] 
+1 -> 0 [label = 1] 
+1 -> 2 [label = 2] 
+1 -> 3 [label = 1] 
+2 -> 3 [label = 1] 
+3 -> 0 [label = 2] 
+3 -> 1 [label = 2] 
+3 -> 2 [label = 2] 
+}
