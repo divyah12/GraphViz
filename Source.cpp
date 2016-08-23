@@ -29,8 +29,6 @@ int main()
 		}
 	}
 		
-	outfile<< "//Divyashree Hanaganahalli Boregowda"<<endl;
-	outfile << "//Roster No. #5"<<endl;
 	outfile << "//CMPS 5443" << endl;
 	outfile << "//The adjacency Matrix is as below" << endl;
 		//print 2D-Array
